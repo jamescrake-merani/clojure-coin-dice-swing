@@ -1,0 +1,3 @@
+{:paths ["src"]
+ :deps {com.formdev/flatlaf {:mvn/version "3.5.2"}
+        seesaw/seesaw {:mvn/version "1.5.0"}}}
